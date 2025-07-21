@@ -1,19 +1,21 @@
-# Letsbonkfun-bundler
-An open-source #Solana #Bundler for #letsbonk.fun that enables you to create a token and package it with 12 purchases.
+#🧩 Letsbonkfun-Bundler
+🎉 Power your next BONK token launch with profile creation, anti-bubble mapping, and bundle automation using Jito or standard methods  with up to 12 purchases — all in one seamless flow..
 
-Introducing the Open-Source letsbonkfun Bundler – the ultimate tool for seamless bundling on letsbonk.fun, complete with advanced profile creation and anti-bubble map features!
 
-## Example
+## 🔗 Example Bundle
 
 Create token & Buy bundle: https://explorer.jito.wtf/bundle/69b7f510c2232239695529fc5c53d290576b1d460ced81430c0d9fd305faf2f2
 
-## Features
-### Intuitive User Interface
+## ✨ Key Features
+###🖥️ Intuitive UI Options
 - UI selections:
-1. Jito bundler
-2. Delay snipping
-3. Only sniping
-4. Retrieve
+🧠 Jito Bundler
+
+⏱️ Delay Sniping
+
+🎯 Only Sniping
+
+♻️ Retrieve (Cleanup)
 ### Jito bundler
 - Bunder using Jito engine: Create buy wallets regarding specific amount & airdrop sol to each wallet & create and buy tokens in one block.
 ### Delay snipping
@@ -24,4 +26,5 @@ Create token & Buy bundle: https://explorer.jito.wtf/bundle/69b7f510c22322396955
 - Ceaning wallet: Sell token & close ATA & refund Sol back to fund wallet.
 
 ## Contact Info
-[Telegram](https://t.me/pup5ol)
+[Telegram](https://t.me/SHadowRusii)
+[x(WEB3#_MAXI)]
